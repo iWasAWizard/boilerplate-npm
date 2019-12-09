@@ -1,5 +1,5 @@
 {
-	"author": "Joey Villa",
+	"author": "Joey Villa <infinity1423@gmail.com>",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
